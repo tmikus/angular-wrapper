@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/tmikus/angular-wrapper#readme",
   "dependencies": {
-    "angular": "^1.4.5"
+    "angular": "~1.2"
   }
 }
